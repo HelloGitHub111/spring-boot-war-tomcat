@@ -19,11 +19,11 @@ public class SpringBootWebApplication extends SpringBootServletInitializer {
 
 }
 
-@SpringBootApplication
+/*@SpringBootApplication
 public class SpringBootWebApplication {
 
 	public static void main(String[] args) throws Exception {
 		SpringApplication.run(SpringBootWebApplication.class, args);
-	}
+	}*/
 
 }
