@@ -18,7 +18,7 @@ public class SpringBootWebApplication extends SpringBootServletInitializer {
     }
 
 }
-/*
+
 @SpringBootApplication
 public class SpringBootWebApplication {
 
@@ -26,4 +26,4 @@ public class SpringBootWebApplication {
 		SpringApplication.run(SpringBootWebApplication.class, args);
 	}
 
-}*/
+}
